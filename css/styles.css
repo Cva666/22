@@ -1,9 +1,10 @@
 body {
-  font-family: sans-serif;
+  font-family: cursive;
   max-width: 600px;
   margin: 40px auto;
   padding: 0 20px;
-  color: #2d3748;
+  color: #000000;
+  background-image: url(./image_17f29020.png);
 }
 
 nav {
@@ -23,6 +24,6 @@ footer {
   margin-top: 40px;
   border-top: 1px solid #17cc2c;
   padding-top: 12px;
-  color: #00e1ff;
+  color: #ff4000;
   font-size: 0.9em;
 }
